@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_inversifyjs_inversify_validation_docs_site=self.webpackChunk_inversifyjs_inversify_validation_docs_site||[]).push([["220"],{4326:function(i){i.exports=JSON.parse('{"blogBasePath":"/validation/blog","blogTitle":"Blog","authorsListPath":"/validation/blog/authors"}')}}]);

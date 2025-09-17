@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_inversifyjs_inversify_validation_docs_site=self.webpackChunk_inversifyjs_inversify_validation_docs_site||[]).push([["833"],{2383:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/validation/blog/welcome","unlisted":false,"date":"2024-12-24T00:00:00.000Z"}]}')}}]);
